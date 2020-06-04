@@ -26,7 +26,7 @@ env:
   IMAGE_frontend: ms-zentralesportal-frontend
   IMAGE_backend: ms-zentralesportal-backend
   REGISTRY_HOSTNAME: gcr.io
-  DEPLOYMENT_NAME: ms-zentralesportal-frontend
+  DEPLOYMENT_NAME: ms-zentralesportal
 
 jobs:
   setup-build-publish-deploy:
