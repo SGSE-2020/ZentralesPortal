@@ -17,10 +17,5 @@ spec:
         name: ms-zentralesportal-frontend
         ports:
         - containerPort: 80
-      - image: ms-zentralesportal-backend
-        name: ms-zentralesportal-backend
-        ports:
-        - containerPort: 8080
-        - containerPort: 50051
       restartPolicy: Always
 status: {}
