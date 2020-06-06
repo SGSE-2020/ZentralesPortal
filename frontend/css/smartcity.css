@@ -3,6 +3,9 @@
 }
 
 img{
-  margin-top: 3%;
   width: 100%;
+}
+
+.tile:hover .image {
+  opacity: 0.6;
 }
